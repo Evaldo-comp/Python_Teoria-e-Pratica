@@ -5,10 +5,6 @@ print("Qual o seu nome?")
 nome = input()
 print("Seja bem vindo ", nome)
 
-# Entrada de dados utlizando case
-print("Qual a sua idade?")
-idade = (input())
-print("você tem", str(idade), " anos")
 
 # Entrada de dados utlizando case
 print("Qual a sua idade?")
