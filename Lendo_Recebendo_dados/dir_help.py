@@ -4,7 +4,7 @@ com alguns comandos você consegue uma lista de dicas possibilidades que a lingu
 
 Dir - > Lista os atributos e funções que um tipo de dado pode suportar em Python
 """
-#print(dir ('eu'))
+#print(dir ('eu')))
 
 
 
