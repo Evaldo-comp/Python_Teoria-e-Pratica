@@ -1,6 +1,10 @@
+
+#Inicializando variáveis
 nome = ''
 idade = 0
 altura = 0.0
+
+#Coletando dados do usuário
 print("Insira o que se pede")
 nome = input("Nome: ")
 idade = int(input("Idade: "))
@@ -9,7 +13,7 @@ altura = float(input("Altura: "))
 #==============================IMPRIMIDOS DADOS====================>
 # Exemplo de print antigo
 print("Impressão do primeiro método")
-print("Seja bem vindo %s, sua idade é %d e você mede %0.1f\n"%(nome, idade, altura))
+print("Seja bem vindo %s, sua idade é %d e você mede %0.2f\n"%(nome, idade, altura))
 
 # Exemplo de print utilizando método format
 print("Impressão do segundo método")
