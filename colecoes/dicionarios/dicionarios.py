@@ -1,8 +1,14 @@
+'''
+Nos dicionários, as chaves devem ser imutáveis
+Pode ser isntanciando de duas formas
+Forma 1 - dicionario = {chave = valor}
+Forma 2 - dicionario = dicit(chave=[valor])
+'''
 # Definição de um dicionário
 capitais = {'Ceara':'Fortaleza', 'Bahia': 'Salvador', 'Tocantins':'Palmas', 'Rio de Janeiro':'Rio de Janeiro'}
 
 # Acessando elementos
-print('##########################ACESSANDO ELEMENTOS####################################')
+print('##########################---ACESSANDO ELEMENTOS---####################################')
 # Forma -1: Via Chave
 print(capitais['Ceara'])
 print(capitais['Rio de Janeiro'])
@@ -14,7 +20,7 @@ print(capitais.get('B','Não encontrado'))# Recebe um valor padrão para retorna
 #Verificar a exsitencia de alguma chave no dicionario
 print('Tocantins' in capitais)
 
-print('##########################ADICIONANDO ELEMENTOS####################################')
+print('##########################---ADICIONANDO ELEMENTOS---####################################')
 #Adicionando Elementos
 #Forma -1
 
@@ -27,7 +33,7 @@ novo = {'Mai':230}
 cagece.update(novo)
 print(cagece)
 
-print('##########################ATUALIZANDO ELEMENTOS####################################')
+print('##########################---ATUALIZANDO ELEMENTOS---####################################')
 # Atualizando Elementos
 cagece = {'jan':210, 'Fev':120, 'Mar':230}
 # Forma -1
@@ -38,7 +44,7 @@ print(cagece)
 cagece.update({'Fev':130})
 print(cagece)
 
-print('##########################REMOVENDO ELEMENTOS####################################')
+print('##########################---REMOVENDO ELEMENTOS---####################################')
 # Removendo Elementos
 # Forma - 1:
 cagece = {'jan':210, 'Fev':120, 'Mar':230}
@@ -50,7 +56,7 @@ print(rem)
 del cagece['Mar']
 print(cagece)
 
-print('##########################COPIANDO DICIONARIOS####################################')
+print('##########################---COPIANDO DICIONARIOS---####################################')
 # Copiando
 # Forma - 1:
 cagece = {'jan':210, 'Fev':120, 'Mar':230}
@@ -61,7 +67,7 @@ print(c2)
 c3 = cagece
 print(c3)
 
-print('##########################MÉTODOS IMPORTANTES####################################')
+print('##########################---MÉTODOS IMPORTANTES---####################################')
 # MÉTODOS IMPORTANTES
 
 dic = {'a':1, 'b':2, 'c':3, 'd':4}
@@ -69,4 +75,31 @@ dic = {'a':1, 'b':2, 'c':3, 'd':4}
 dic.clear()
 print(dic)
 
+print('##########################---ITERAR SOBRE DICONÁRIOS---####################################')
+# interar sobre dicoinários
+dic = {'a':1, 'b':2, 'c':3, 'd':4}
+for chave in dic:
+    print (chave)
+
+for chave in dic:
+    print(dic[chave])
+
+for chave in dic:
+    print(f'{chave} : {dic[chave]}')
+
+# Acessar todas as chaves
+print(dic.keys())
+
+# Acessando valores
+print(dic.values())
+
+
+print('##########################---OUTROS MÉTODOS---####################################')
+# Soma, Valor Máximo, Valor Mínimo, Tamanho
+dic = {'a':1, 'b':2, 'c':3, 'd':4}
+print(sum(dic.values()))
+print(max(dic.values()))
+print(min(dic.values()))
+print(len(dic))
+print(dic.get('a')) #imprime o valor de uma chave especifica
 
