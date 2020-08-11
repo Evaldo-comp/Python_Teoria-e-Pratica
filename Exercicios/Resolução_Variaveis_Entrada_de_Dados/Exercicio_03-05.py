@@ -12,3 +12,6 @@ res3 = 5 > 1 and True or True
 print(f'O resultado da linha 1 da tabela é {res1}' )
 print(f'O resultado da linha 2 da tabela é {res2} ')
 print(f'O resultado da linha 3 da tabela é {res3}' )
+
+#Fonte: Introdução à Programação com Python - Nilo Ney Coutinho- 3º ed
+
