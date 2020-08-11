@@ -15,6 +15,12 @@
  
  ______
  
+ #### 2. Escreva uma expressão que será utilizada para decidir se uma aluno foi ou não aprovado. Para ser aprovado, todas as médias do aluno devem ser maiores que 7 Considere que o aluno cursa apenas três matérias, e a quarta nota de cada uma está armazenada nas seguintes variáveis:materia1, materia2, materia3.
+ 
+ :pencil2: [Solução](https://github.com/Evaldo-comp/Python_Teoria-e-Pratica/blob/master/Exercicios/Resolu%C3%A7%C3%A3o_Variaveis_Entrada_de_Dados/Exercicio_02.py)
+ 
+ ______
+ 
  
  
  :house: [HOME](https://github.com/Evaldo-comp/Python_Teoria-e-Pratica/blob/master/README.md)
