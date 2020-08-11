@@ -11,7 +11,7 @@
 
 
       
- :pencil2: [Solução](https://github.com/Evaldo-comp/C/blob/master/Exerc%C3%ADcios/Solu%C3%A7%C3%B5es_Introdut%C3%B3rios/Exe01.md)
+ :pencil2: [Solução](https://github.com/Evaldo-comp/Python_Teoria-e-Pratica/blob/master/Exercicios/Resolu%C3%A7%C3%A3o_Variaveis_Entrada_de_Dados/Exercicio_01.py)
  
  ______
  
