@@ -14,7 +14,7 @@ Esse repósitório contém estudos fundamentais de PYTHON dividido basicamente e
 
 ### REFERÊNCIAS
 
-MENEZES,Nilo Ney Coutinho. Introdução à Programação com Python; Novatex; Edição: 3 (2019)<br>
+MENEZES,Nilo Ney Coutinho. Introdução à Programação com Python; Novatec; Edição: 3 (2019)<br>
 [Site do Autor](https://python.nilo.pro.br/)<br>
 
 
