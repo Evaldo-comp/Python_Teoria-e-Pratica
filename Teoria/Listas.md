@@ -211,7 +211,7 @@ for e in L:
 - **sort():** Ordena um alista modificando sua estrutura
 - **sorted():** Ordena sem alterar a lista original
 
-:house: [HOME]()
+:house: [HOME](https://github.com/Evaldo-comp/Python_Teoria-e-Pratica)
 
 
 
