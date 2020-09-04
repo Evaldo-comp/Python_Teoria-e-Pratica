@@ -17,7 +17,7 @@ lista = [1, 2, 3]
 
 #### Trocando o valor do índice 3 de uma lista
 ```python
-lista[2]= 5   O índice dois valer=a 5
+lista[2]= 5   #O índice 2 irá valer  5
 ```
 
 #### Fatiamento de lista:
