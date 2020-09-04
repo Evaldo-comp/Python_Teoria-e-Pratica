@@ -47,11 +47,12 @@ print(len(semana))  #imprime o tamanho da lista
 ```
 #### Adicionando elementos à lista:
 
-Para adicionarmos elementos em uma lista utilizamos um método, importante notarmos a diferença de função e método. </br>
+Para adicionarmos elementos em uma lista utilizamos um método. Importante notarmos a diferença de função e método. </br>
+
+**função** é chamada e leva como parâmetro o objeto ao qual queremos aplicar alguma instrução, já os </br>
 ```
 len(objeto)
 ```
-**função** é chamada e leva como parâmetro o objeto ao qual queremos aplicar alguma instrução, já os </br>
 **Métodos** são escritos após o nome do objeto separados por ponto.</br>
  ```
  objeto.append(elemento)
