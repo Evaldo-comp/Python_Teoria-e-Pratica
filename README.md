@@ -7,7 +7,7 @@ Esse repósitório contém estudos fundamentais de PYTHON dividido basicamente e
 
 #### Teoria
 - [Listas](https://github.com/Evaldo-comp/Python_Teoria-e-Pratica/blob/master/Teoria/Listas.md)
-- Dicionários (Em breve...)::sweat_smile::
+- Dicionários (Em breve...):sweat_smile:
   
 #### Exercícios
 * [Variáveis e Entrada de Dados](https://github.com/Evaldo-comp/Python_Teoria-e-Pratica/blob/master/Exercicios/Resolu%C3%A7%C3%A3o_Variaveis_Entrada_de_Dados/Vari%C3%A1veis%20e%20Entrada%20de%20Dados.md)
