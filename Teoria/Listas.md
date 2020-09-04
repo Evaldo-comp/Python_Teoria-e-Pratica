@@ -1,7 +1,7 @@
 ### LISTAS
 
 A lista é um tipo de variável que permite o armazenamento de vários valores em uma única estrutura , os dados armazenados em uma lista podem 
-ser de tipos diversos, ous eja ela suporta *inteiros , strings, floats* e etc.
+ser de tipos diversos, ou seja ela suporta *inteiros , strings, floats* e etc.
 
 #### Declaração de uma lista vazia
 ```python
