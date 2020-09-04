@@ -22,8 +22,8 @@ lista[2]= 5   #O índice 2 irá valer  5
 
 #### Fatiamento de lista:
 
-Pode ser necessário que em algum momento você não precise utilizar a lista inteira mais apenas algum trecho dela, 
-um intervalo específico, para utilizarmos apenas um determinado intervalo dentro da,osita nós podemos fatiá-la, 
+Pode ser necessário que em algum momento, você não precise utilizar a lista inteira, mas apenas algum trecho dela, 
+um intervalo específico, para utilizarmos apenas um determinado intervalo dentro de uma lista, nós podemos fatiá-la, 
 indicando o índice de corte inicial e índice de corte final
 
 ##### Exemplo: 
