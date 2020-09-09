@@ -7,7 +7,7 @@ Esse repositório contém estudos fundamentais de PYTHON divididos basicamente e
 
 #### Teoria
 - [Listas](https://github.com/Evaldo-comp/Python_Teoria-e-Pratica/blob/master/Teoria/Listas.md)
-- [Dicionários](https://github.com/Evaldo-comp/Python_Teoria-e-Pratica/blob/master/Teoria/Dicion%C3%A1rios.md):sweat_smile:
+- [Dicionários](https://github.com/Evaldo-comp/Python_Teoria-e-Pratica/blob/master/Teoria/Dicion%C3%A1rios.md)
 - [Tuplas](https://github.com/Evaldo-comp/Python_Teoria-e-Pratica/blob/master/Teoria/Tuplas.md)
 - sets (em breve):sweat_smile:
   
