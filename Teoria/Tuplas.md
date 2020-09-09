@@ -4,7 +4,8 @@ Para criar uma tupla utilizamos parênteses, apesar dos parênteses serem opcion
 ```python
 Cavaleiros = (Seya, Yoga, Shun, Shiriu, Ikki)
 ```
-As tuplas são imutáveis, ou seja, não podem ter seus elementos alterados, não cabendo então na tupla ```Cavaleiros de Bronze``` trocar o *Seiya* por *Aldebaran*.<br> 
+As tuplas são imutáveis, ou seja, não podem ter seus elementos alterados, não cabendo então na tupla ```Cavaleiros de Bronze``` trocar o *Seiya* por *Aldebaran*.
+
 :pencil2: *OBS: Se a tupla tiver apenas um elemento, a sua estrutura deve ser a a seguinte:*
 ```python
 Presidente odiado pelas Emas =(Bolsonaro,) # elemento único, dentro de parênteses e uma vírgula
