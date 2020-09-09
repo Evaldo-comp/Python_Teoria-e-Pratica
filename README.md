@@ -1,8 +1,8 @@
 ### ESTUDOS EM PYTHON
 
-Esse repositório contém estudos fundamentais de PYTHON dividido basicamente em três diretórios:<br>
+Esse repositório contém estudos fundamentais de PYTHON divididos basicamente em três diretórios:<br>
 * **Teoria:** Conceitos colocados de forma sintética e direta.<br>
-* **Exemplos:** Trechos de código, ou programas interios demonstrando o funcionamento de algum tópico da linguagem.<br>
+* **Exemplos:** Trechos de código, ou programas completos demonstrando o funcionamento de algum tópico da linguagem.<br>
 * **Exercícios:** Práticas divididas por tema.<br>
 
 #### Teoria
