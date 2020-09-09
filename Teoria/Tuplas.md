@@ -45,7 +45,7 @@ Bronze = [Seiya, Hyoga]
 Prata = [Mouses de Baleia]
 ```
 
-:house:[HOUSE](https://github.com/Evaldo-comp/Python_Teoria-e-Pratica/blob/master/README.md)
+:house:[HOME](https://github.com/Evaldo-comp/Python_Teoria-e-Pratica/blob/master/README.md)
 
 
 
