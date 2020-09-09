@@ -2,18 +2,24 @@
 As tuplas são imutáveis, por isso são indicadas para trabalhar com valores constantes, como por exemplo, dias da semana, meses do ano e etc.
 Para criar uma tupla utilizamos parênteses, apesar dos parênteses serem opcionais,sua utilização é indicada para facilitar a leitura.
 ```python
+
 Cavaleiros = (Seya, Yoga, Shun, Shiriu, Ikki)
+
 ```
 As tuplas são imutáveis, ou seja, não podem ter seus elementos alterados, não cabendo então na tupla ```Cavaleiros de Bronze``` trocar o *Seiya* por *Aldebaran*.
 
 :pencil2: *OBS: Se a tupla tiver apenas um elemento, a sua estrutura deve ser a a seguinte:*
 ```python
+
 Presidente odiado pelas Emas =(Bolsonaro,) # elemento único, dentro de parênteses e uma vírgula
+
 ```
 Podemos transformar uma lista em tupla através do comando ```tuple```.
 ```python
+
 Lista = [1, 2, 3, 4]
 Tupla = tuple(Lista) # uma tupla é criada a partir de uma lista
+
 ```
 Tuplas permitem concatenação, ou seja a junção de uma mais tuplas .
 ```python
