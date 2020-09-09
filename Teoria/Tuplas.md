@@ -23,9 +23,11 @@ Tupla = tuple(Lista) # uma tupla é criada a partir de uma lista
 ```
 Tuplas permitem concatenação, ou seja a junção de uma mais tuplas .
 ```python
+
 t1= (Seya)
 t2=(Saori)
 seyore = t1 + t2 # desculpem por isso :)
+
 ```
 #### Utilizando tupla para desempacotar
 
@@ -41,14 +43,17 @@ Cavaleiros de Ouro = [Mu]
 Cavaleiros de Bronze, Cavaleiros de Ouro* = [Seya, Mu, Saga, Camus]
 Cavaleiros de Bronze = [Seiya]
 Cavaleiros de Ouro = [Seya, Mu, Saga, Camus]
+
 ```
 
 A variável sem o asterisco * recebe apenas um valor, já a variável com asterisco recebe todos os demais, se existirem duas variáveis sem asteriscos, elas recebem cada qual um valor nas suas posições, o restante sobra para a variável com asterisco. Vamos entender como funciona com os cavaleiros
 ```python
+
 Ouro, Bronze*, Prata = [Camus, Seiya, Hyoga, Mouses de Baleia]
 Ouro = [Camus]
 Bronze = [Seiya, Hyoga]
 Prata = [Mouses de Baleia]
+
 ```
 
 :house:[HOME](https://github.com/Evaldo-comp/Python_Teoria-e-Pratica/blob/master/README.md)
