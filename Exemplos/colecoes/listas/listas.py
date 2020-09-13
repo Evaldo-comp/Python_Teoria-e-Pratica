@@ -79,7 +79,7 @@ nome = 'Francisco Evaldo Pereira '
 nome = nome.split() # Separa os itens da lista em cada espaço
 print(nome)
 
-# Escolhendo o separador do split(0
+# Escolhendo o separador do split(0)
 nome2 = 'Evaldo pereira mariano'
 nome2 = nome2.split('a') # Vai cortar a string nos 'a's
 print(nome2)

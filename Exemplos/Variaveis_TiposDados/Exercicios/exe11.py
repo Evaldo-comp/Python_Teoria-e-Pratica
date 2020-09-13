@@ -1,5 +1,5 @@
 """
-Crie uma função que receba um número interio e retorne a quantidade de algarismos deste número
+Crie uma função que receba um número inteiro e retorne a quantidade de algarismos deste número
 """
 
 def qtd_digitos(num):
