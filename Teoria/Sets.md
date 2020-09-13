@@ -1,6 +1,6 @@
 ### Conjuntos
 
-Os conjuntos em python realizam operações de união, intersecção e diferença, entre outras, igualmente os conjuntos em matemática, em python eles não aceitam repetições e não matem a ordem de seus elementos.
+Os conjuntos em python realizam operações de união, intersecção e diferença, entre outras. Igualmente os conjuntos na matemática, em python eles não aceitam repetições e não mantêm a ordem de seus elementos.
 
 ##### Exemplo de adição de itens em um conjunto:
 ```python
