@@ -13,7 +13,7 @@ Esse repositório contém estudos fundamentais de PYTHON divididos basicamente e
 - Strings(em breve):sweat_smile:
   
 #### Exercícios
-* [Variáveis e Entrada de Dados](https://github.com/Evaldo-comp/Python_Teoria-e-Pratica/blob/master/Exercicios/Resolu%C3%A7%C3%A3o_Variaveis_Entrada_de_Dados/Vari%C3%A1veis%20e%20Entrada%20de%20Dados.md)
+* [Nilo 3° ed](https://github.com/Evaldo-comp/Python_Teoria-e-Pratica/tree/master/Exercicios/Nilo_3ed)
   
 
 ### REFERÊNCIAS
