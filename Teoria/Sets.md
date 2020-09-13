@@ -39,7 +39,7 @@ set1 = {1, 2 3,4}
 set2{5, 6, 7}
 set3 = set1.union(set2)
 ```
-##### Utilizando o método upade para juntas dois conjuntos
+##### Utilizando o método updade para juntas dois conjuntos
 ```python
 set1 = {1, 2 3,4}
 set2{5, 6, 7}
