@@ -10,7 +10,7 @@ a.add(Jaca)
 a.add(Banana)
 saída {Banana, Jaca}
 ```
-Um conjunto pode ser criado a partir de uma lista como pdemos observar abaixo:
+Um conjunto pode ser criado a partir de uma lista como podemos observar abaixo:
 ```python
 a = set([1, 2, 3])
 {1, 2, 3}
