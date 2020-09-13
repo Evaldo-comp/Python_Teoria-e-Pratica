@@ -10,12 +10,12 @@ a.add(Jaca)
 a.add(Banana)
 saída {Banana, Jaca}
 ```
-Um conjunto pode ser criado a partir de uma lista como podemos observar abaixo:
+##### Um conjunto pode ser criado a partir de uma lista como podemos observar abaixo:
 ```python
 a = set([1, 2, 3])
 {1, 2, 3}
 ```
-#### Vamos emeteder como realizar operações báśicas com Conjuntos:
+#### Vamos entender como realizar operações báśicas com Conjuntos:
 
 ##### Diferença entre Conjuntos
 ```python
