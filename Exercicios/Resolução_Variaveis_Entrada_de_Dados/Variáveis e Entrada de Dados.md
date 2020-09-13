@@ -1,4 +1,4 @@
-### EXERCÍCIOS -  VÁRIÁVEIS E ENTRADA DE DADOS
+### EXERCÍCIOS -  VARIÁVEIS E ENTRADA DE DADOS
 
 #### 1. Calcule o resultado da expressão ***```  A > B and C or D  ```***, utilizando os valores da tebela aseguir:<br>
 
