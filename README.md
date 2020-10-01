@@ -10,7 +10,7 @@ Esse repositório contém estudos fundamentais de PYTHON divididos basicamente e
 - [Dicionários](https://github.com/Evaldo-comp/Python_Teoria-e-Pratica/blob/master/Teoria/Dicion%C3%A1rios.md)
 - [Tuplas](https://github.com/Evaldo-comp/Python_Teoria-e-Pratica/blob/master/Teoria/Tuplas.md)
 - [Sets](https://github.com/Evaldo-comp/Python_Teoria-e-Pratica/blob/master/Teoria/Sets.md)
-- Strings(em breve):sweat_smile:
+- [Strings](https://github.com/Evaldo-comp/Python_Teoria-e-Pratica/blob/master/Teoria/Strings.md)
   
 #### Exercícios
 * [Nilo 3° ed](https://github.com/Evaldo-comp/Python_Teoria-e-Pratica/tree/master/Exercicios/Nilo_3ed)
