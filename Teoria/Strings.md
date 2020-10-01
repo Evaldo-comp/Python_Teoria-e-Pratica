@@ -73,6 +73,8 @@ s.find("u", 3, 8) #busca o caractere u entre os índices 3 e 8
 
 A linguagem Python possui dois métodos semelhantes ao dois que foram trabalhados anteriormentes, é ```index``` e ```rindex```, a diferença que estes quando não encontram o item buscando retornam um erro.
 
+______
+
 #### Posicionamento de strings:
 
 Existe um método que centraliza  a string dentro de um número de posições passados como parâmetro neste método, veja como funciona;
@@ -99,7 +101,7 @@ saida: [‘nao’, ‘gosto’,’muito’, ‘de’, ‘me’, ‘separar’]
 
 ______
 
-# Substituição de Strings:
+#### Substituição de Strings:
 
 Podemos substituir determinada ocorrência de uma string por outra, para isso devemos utilizar o método ```replace()```, que leva dois parâmetros, o primeiro é o elemento da string a ser substituído e o segundo o elemento que substituirá o primeiro.
 ```python
@@ -168,7 +170,7 @@ s = “sossega”
 s.islower() # retorna true
 s.isupper() # retorna false
 ```
-<b>isspace:</b><br/>
+<b>isspace():</b><br/>
 Verifica se a string contém apenas caracteres em branco como espaço, tab e etc.
 ```python
 a = “\t\n\r    “
@@ -268,7 +270,9 @@ Por último se fizermos as devidas substituições, é possível imprimir um det
 “{:c}”.format(10)# imprime o número 10 em seu equivalente ‘char’ de acordo com a tabela ASCII
 “{:o}”.format(10)# imprime o número 10 octal
 ```
+______
 
+:house:[HOME](https://github.com/Evaldo-comp/Python_Teoria-e-Pratica)
 
 
 
