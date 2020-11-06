@@ -1,8 +1,10 @@
-"""
-Programa 7.2
-"""
 
-palavra = input("Digite a Palavra secreta:").lower().strip()
+import random
+
+lst = ['Jaca', 'Banana', 'Caju', 'Abacate', 'Jabuticaba', 'Morango']
+random.shuffle(lst)
+#palavra = input("Digite a Palavra secreta:").lower().strip()
+palavra = ", ".join(lst[2])
 for x in range(100):
     print()
 
@@ -48,4 +50,5 @@ while True:
         print("X\n========")
         if erros == 6:
             print("Enforcado")
+            print("A palavra  era" + palavra)
             break
