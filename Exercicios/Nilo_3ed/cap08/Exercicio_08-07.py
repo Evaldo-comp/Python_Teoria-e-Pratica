@@ -4,9 +4,12 @@ números a e b, em que a > b.
 
 """
 
+
 def mdc(a, b):
-    if a <=b:
-        return "O primerio número deve ser amior do que o segundo"
+    if a <= b:
+        return "O primerio número deve ser maior do que o segundo"
     else:
         return mdc(b, a - b(a/b))
-print(mdc(9,6))
+
+
+print(mdc(9, 6))
