@@ -10,7 +10,7 @@ cont2 = 0
 control = 1
 a = 1
 while (a != 0):
-    print("Escolha um numero:")
+    print("Escolha  um numero:")
     control = 1
     while control <= 3:
         x = int(input())
