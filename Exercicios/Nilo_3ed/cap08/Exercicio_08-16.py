@@ -1,7 +1,7 @@
 """
 Escreva um generator capaz de gerar a série dos npumeros primos.
 
-OBS: resolução ficila do autor do livro.
+OBS: resolução oficial do autor do livro.
 Fonte:  https://python.nilo.pro.br/exercicios3/capitulo%2008/exercicio-8-16.html
 """
 
