@@ -20,6 +20,12 @@ Lembre-se, a melhor fonte de referência de uma linguagem é a documentação of
   
 
 ### REFERÊNCIAS
+<a href="https://www.goodreads.com/book/show/49712973-introdu-o-programa-o-com-python" ><img width = "150px" height="200px" src="https://github.com/Evaldo-comp/Python_Teoria-e-Pratica/blob/master/Teoria/nilo.png" /></a>
+<a href="https://www.goodreads.com/book/show/40800648-pense-em-python" ><img width = "150px" height="200px" src="https://github.com/Evaldo-comp/Python_Teoria-e-Pratica/blob/master/Teoria/pense.png" /></a>
+<a href="https://www.goodreads.com/book/show/36361456-python-fluente" ><img width = "150px" height="200px" src="https://github.com/Evaldo-comp/Python_Teoria-e-Pratica/blob/master/Teoria/fluente.png" /></a>
+
+
+---
 
 MENEZES,Nilo Ney Coutinho. Introdução à Programação com Python; Novatec; Edição: 3 (2019)<br>
 [Site do Autor](https://python.nilo.pro.br/)<br>
