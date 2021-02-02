@@ -1,9 +1,9 @@
 ### ESTUDOS EM PYTHON
 
-Esse repositório contém estudos fundamentais de PYTHON divididos basicamente em três diretórios:<br>
-* **Teoria:** Conceitos colocados de forma sintética e direta.<br>
-* **Exemplos:** Trechos de código, ou programas completos demonstrando o funcionamento de algum tópico da linguagem.<br>
-* **Exercícios:** Práticas divididas por tema.<br> 
+Esse repositório contém estudos fundamentais de PYTHON divididos basicamente duas pastas:<br>
+* **Teoria:** Conceitos colocados de forma resumida e direta.<br>
+* **Livos_cursoss:** Nessa pasta coloco resoluções de exercícios e exemplos de livros que vou lendo e cursos que faço.<br>
+ 
 
 
 Lembre-se, a melhor fonte de referência de uma linguagem é a documentação oficial da mesma, esse conteúdo que organizo aqui é um pouco do que pego na documentação e em alguns livros, organizo de forma mais simples e direta para uma consulta rápida. Caso você queira analisar mais detalhadamente o comportamento de um método, objeto, biblioteca e etc, vá na documentação oficial do Python, que pode ser acessada [aqui](https://docs.python.org/pt-br/3/tutorial/)
