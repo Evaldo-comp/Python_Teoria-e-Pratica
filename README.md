@@ -2,7 +2,7 @@
 
 Esse repositório contém estudos fundamentais de PYTHON divididos basicamente duas pastas:<br>
 * **Teoria:** Conceitos colocados de forma resumida e direta.<br>
-* **Livos_cursoss:** Nessa pasta coloco resoluções de exercícios e exemplos de livros que vou lendo e cursos que faço.<br>
+* **Livros_cursos:** Nessa pasta coloco resoluções de exercícios e exemplos de livros que vou lendo e cursos que faço.<br>
  
 
 
@@ -15,8 +15,7 @@ Lembre-se, a melhor fonte de referência de uma linguagem é a documentação of
 - [Sets](https://github.com/Evaldo-comp/Python_Teoria-e-Pratica/blob/master/Teoria/Sets.md)
 - [Strings](https://github.com/Evaldo-comp/Python_Teoria-e-Pratica/blob/master/Teoria/Strings.md)
   
-#### Exercícios
-* [Nilo 3° ed](https://github.com/Evaldo-comp/Python_Teoria-e-Pratica/tree/master/Exercicios/Nilo_3ed)
+
   
 
 ### REFERÊNCIAS
