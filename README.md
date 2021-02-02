@@ -1,4 +1,4 @@
-### ESTUDOS EM PYTHON
+### <h2 align="center" >ESTUDOS EM PYTHON</h2>
 
 Esse repositório contém estudos fundamentais de PYTHON divididos basicamente duas pastas:<br>
 * **Teoria:** Conceitos colocados de forma resumida e direta.<br>
