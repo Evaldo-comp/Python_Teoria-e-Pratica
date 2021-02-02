@@ -4,9 +4,11 @@ Esse repositório contém estudos fundamentais de PYTHON divididos basicamente d
 * **Teoria:** Conceitos colocados de forma resumida e direta.<br>
 * **Livros_cursos:** Nessa pasta coloco resoluções de exercícios e exemplos de livros que vou lendo e cursos que faço.<br>
  
-
+---
 
 Lembre-se, a melhor fonte de referência de uma linguagem é a documentação oficial da mesma, esse conteúdo que organizo aqui é um pouco do que pego na documentação e em alguns livros, organizo de forma mais simples e direta para uma consulta rápida. Caso você queira analisar mais detalhadamente o comportamento de um método, objeto, biblioteca e etc, vá na documentação oficial do Python, que pode ser acessada [aqui](https://docs.python.org/pt-br/3/tutorial/)
+
+---
 
 #### Teoria
 - [Listas](https://github.com/Evaldo-comp/Python_Teoria-e-Pratica/blob/master/Teoria/Listas.md)
@@ -16,7 +18,7 @@ Lembre-se, a melhor fonte de referência de uma linguagem é a documentação of
 - [Strings](https://github.com/Evaldo-comp/Python_Teoria-e-Pratica/blob/master/Teoria/Strings.md)
   
 
-  
+---  
 
 ### REFERÊNCIAS
 <a href="https://www.goodreads.com/book/show/49712973-introdu-o-programa-o-com-python" ><img width = "150px" height="200px" src="https://github.com/Evaldo-comp/Python_Teoria-e-Pratica/blob/master/Teoria/nilo.png" /></a>
