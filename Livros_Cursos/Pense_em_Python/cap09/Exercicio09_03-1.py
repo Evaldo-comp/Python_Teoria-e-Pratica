@@ -1,15 +1,14 @@
-# Escreva uma função que receba um palavra e retorne True se ela não possuir a letra 'e'
-# e False se ela tiver
+# Escreva uma função void que receba uma palavra e uma série de letras proibidas, e retorne True se a
+# palavra não usar nenhuma das letras proibidas.
 
-
-def has_no_e(word):
-    cont = 0
-    for i in word:
-        if i.lower() == "e":
-            cont = +1
-            return False
-        elif cont == 0:
+def avoids(word, proibidas):
+    for i in proibidas:
+        if i in word:
             return True
+        else:
+            return False
 
 
-print(has_no_e("avaldo"))
+L = ['a', 'c', 'd']
+
+print(avoids("Ovo", L))
